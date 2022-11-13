@@ -1,0 +1,8 @@
+"skeleton"
+{
+	"base"		"nutscript"
+	"title"		"Skeleton"
+	"author"	"berko"
+	"menusystem" 	"1"
+	"category"	"rp"
+}
