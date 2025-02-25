@@ -31,4 +31,4 @@ nut.flag.add("C", "Gives access to the custom class.")
 -- Include Additional Shared Files
 
 -- Include Additional Serverside Files
-nut.util.include( "sv_hooks.lua" )
+nut.util.include("sv_hooks.lua")
